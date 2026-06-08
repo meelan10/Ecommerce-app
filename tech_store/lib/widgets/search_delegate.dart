@@ -18,7 +18,7 @@ class ProductSearchDelegate extends SearchDelegate<Product?> {
         border: InputBorder.none,
         hintStyle: GoogleFonts.dmSans(color: Colors.grey[400], fontSize: 16),
       ),
-    );
+    )
   }
 
   @override
