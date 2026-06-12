@@ -6,7 +6,7 @@ import '../widgets/product_card.dart';
 import '../widgets/search_delegate.dart';
 
 class HomeScreen extends StatefulWidget {
-  const HomeScreen({super.key});
+  const HomeScreen({super.key})
 
   @override
   State<HomeScreen> createState() => _HomeScreenState();
